@@ -1,0 +1,9 @@
+{
+    "host":"52.78.12.44",
+    "port":3306,
+    "user":"cloudCell",
+    "passwd":"rjsgns09@sh",
+    "db":"MM_Calendar",
+    "charset":"utf8"
+}
+
